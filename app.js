@@ -289,7 +289,7 @@ console.log(updateItem);
       // Add total calories to UI
       UICtrl.showTotalCalories(totalCalories);
 
-      UICtrl.clearEditState();
+      UICtrl.clearEditState(); 
 
       e.preventDefault();
    }
